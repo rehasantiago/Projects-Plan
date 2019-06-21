@@ -7,5 +7,5 @@ npm install
 ## to run the application 
 npm start
 
-## to see alive demo of this project go to 
+## to see a live demo of this project go to 
 [Projects Plan](https://marioplan-ae6b6.firebaseapp.com/)
