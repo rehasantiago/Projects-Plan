@@ -1,5 +1,5 @@
 # Projects-Plan
-A simple application to keep a track of projects of all the registered users,built using react,redux and firebas
+A simple application to keep a track of projects of all the registered users,built using react,redux and firebase
 
 ## to install all the dependencies 
 npm install
